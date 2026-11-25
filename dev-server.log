@@ -1,0 +1,187 @@
+
+> portfolio@0.1.0 start
+> react-scripts start
+
+Starting the development server...
+
+Compiled successfully!
+
+You can now view portfolio in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.25.25.152:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiled successfully!
+webpack compiled successfully
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Failed to compile.
+
+[eslint] 
+src\components\Experience.jsx
+Syntax error: Unexpected token, expected "," (20:4) (20:4)
+ERROR in ./src/components/Experience.jsx
+Module build failed (from ./node_modules/babel-loader/lib/index.js):
+SyntaxError: C:\Users\saadali\Desktop\portfolio\src\components\Experience.jsx: Unexpected token, expected "," (20:4)
+
+  18 |     organization: 'ITSOLERA Pvt. Ltd.',
+  19 |     period: 'July 2024 - September 2024'
+> 20 |     location: 'Remote',,
+     |     ^
+  21 |     details: [
+  22 |       'Conducted penetration testing and security assessments to identify vulnerabilities.',
+  23 |       'Documented assessment findings and shared remediation recommendations to help address identified risks.',
+    at constructor (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowParserMixin.unexpected (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:6619:16)
+    at FlowParserMixin.expect (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:6899:12)
+    at FlowParserMixin.parseObjectLike (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:11812:14)
+    at FlowParserMixin.parseExprAtom (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:11329:23)
+    at FlowParserMixin.parseExprAtom (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:4764:20)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:11071:23)
+    at FlowParserMixin.parseUpdate (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:11056:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:11036:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10889:61)
+    at FlowParserMixin.parseExprOps (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10894:23)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10871:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10821:21)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:3549:18)
+    at C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10790:39
+    at FlowParserMixin.allowInAnd (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12416:12)
+    at FlowParserMixin.parseMaybeAssignAllowIn (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10790:17)
+    at FlowParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12483:17)
+    at FlowParserMixin.parseExprListItem (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12165:18)
+    at FlowParserMixin.parseExprList (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12140:22)
+    at FlowParserMixin.parseArrayLike (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12047:26)
+    at FlowParserMixin.parseArrayLike (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:3233:24)
+    at FlowParserMixin.parseExprAtom (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:11325:23)
+    at FlowParserMixin.parseExprAtom (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:4764:20)
+    at FlowParserMixin.parseExprSubscripts (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:11071:23)
+    at FlowParserMixin.parseUpdate (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:11056:21)
+    at FlowParserMixin.parseMaybeUnary (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:11036:23)
+    at FlowParserMixin.parseMaybeUnaryOrPrivate (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10889:61)
+    at FlowParserMixin.parseExprOps (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10894:23)
+    at FlowParserMixin.parseMaybeConditional (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10871:23)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10821:21)
+    at FlowParserMixin.parseMaybeAssign (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:3549:18)
+    at C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10790:39
+    at FlowParserMixin.allowInAnd (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12411:16)
+    at FlowParserMixin.parseMaybeAssignAllowIn (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:10790:17)
+    at FlowParserMixin.parseVar (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:13374:91)
+    at FlowParserMixin.parseVarStatement (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:13220:10)
+    at FlowParserMixin.parseStatementContent (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12841:23)
+    at FlowParserMixin.parseStatementLike (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12757:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12734:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:13306:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:13299:10)
+    at FlowParserMixin.parseProgram (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12612:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:12602:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:14478:25)
+    at parse (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\parser\lib\index.js:14512:38)
+    at parser (C:\Users\saadali\Desktop\portfolio\node_modules\@babel\core\lib\parser\index.js:41:34)
+
+ERROR in [eslint] 
+src\components\Experience.jsx
+  Line 20:4:  Parsing error: Unexpected token, expected "," (20:4)
+
+webpack compiled with 2 errors
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
