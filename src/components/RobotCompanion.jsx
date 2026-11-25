@@ -265,8 +265,7 @@ export default function RobotCompanion() {
     <motion.div
       className="robot-companion"
       initial={false}
-      style={{ right: 24, bottom: 16 }}
-      animate={{}}
+      animate={{ left: position.x, top: position.y }}
       transition={reducedMotion ? { duration: 0 } : { type: 'spring', stiffness: 52, damping: 18, mass: 1.1 }}
       onPointerMove={wake}
     >
